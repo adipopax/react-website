@@ -10,3 +10,15 @@
   color: white;
   font-size: 18px;
 }
+
+.nav {
+  background-color: #1B263B;
+  display: flex;
+  align-items: flex-start;
+}
+
+.logo {
+  height: 100px;
+  width: 125px;
+  background-color: #1B263B;
+}
