@@ -1,0 +1,9 @@
+.nav {
+  background-color: #1B263B;
+  z-index: 1;
+}
+
+.logo{
+  width: 125px;
+  height: 100px;
+}

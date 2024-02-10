@@ -1,0 +1,12 @@
+.advertising {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.first-advertising {
+  background: #0D1B2A;
+  height: 40px;
+  color: white;
+  font-size: 18px;
+}
