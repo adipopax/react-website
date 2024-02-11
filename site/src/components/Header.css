@@ -13,12 +13,58 @@
 
 .nav {
   background-color: #1B263B;
-  display: flex;
-  align-items: flex-start;
+  display: flex; 
+  align-items: center; 
+  padding: 10px;
 }
 
 .logo {
   height: 100px;
   width: 125px;
   background-color: #1B263B;
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+  width: 300px;
+  border: 1px solid #E0E1DD; 
+  border-radius: 5px;
+  padding: 5px; 
+}
+
+.search-input {
+  flex: 1;
+  border: none;
+  outline: none;
+  padding: 5px;
+}
+
+.search-button {
+  background-color: #1B263B;
+  color: #E0E1DD;
+  border: none;
+  border-radius: 0 5px 5px 0;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.mglass {
+  background-color: #1B263B;
+  color: #E0E1DD;
+}
+
+.buttons {
+  display: flex;  
+  background-color: #1B263B;
+}
+
+.btn {
+  margin-right: 10px;
+  background-color: #1B263B;
+  color: #E0E1DD;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
 }
