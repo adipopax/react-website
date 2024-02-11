@@ -1,0 +1,24 @@
+.advertising {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.first-advertising {
+  background: #0D1B2A;
+  height: 40px;
+  color: white;
+  font-size: 18px;
+}
+
+.nav {
+  background-color: #1B263B;
+  display: flex;
+  align-items: flex-start;
+}
+
+.logo {
+  height: 100px;
+  width: 125px;
+  background-color: #1B263B;
+}
