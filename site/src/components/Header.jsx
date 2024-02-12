@@ -21,9 +21,9 @@ const Header = () => {
                 <MdArrowDropDown />
               </button>
               <div className="dropdown-menu">
-                <a href="#">English</a>
-                <a href="#">Spanish</a>
-                <a href="#">Romanian</a>
+                <a href="english">English</a>
+                <a href="Spanish">Spanish</a>
+                <a href="Romanian">Romanian</a>
               </div>
             </div>
           </div>
